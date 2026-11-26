@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Alameen Sabbah and I'm a software developer, from Jordan</h2>
+<h2 align="center">Hi 👋! My name is Alameen Sabbah and I'm a Software Engineer</h2>
 
 ###
 
